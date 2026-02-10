@@ -113,16 +113,18 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				padding-top: 2rem;
 			}
 			.hero-image {
-				width: 960px;
+				width: 800px; /* Reduced from 960px */
 				max-width: calc(100% - 2em);
 				margin: 0 auto 3rem;
 				overflow: hidden;
 				border-radius: 24px;
+				height: 450px; /* Capped height */
 			}
 			.hero-image img {
 				display: block;
 				width: 100%;
-				height: auto;
+				height: 100%; /* Fill the container */
+				object-fit: cover;
 				border-radius: 24px;
 			}
 			.prose {
