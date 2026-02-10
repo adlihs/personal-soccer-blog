@@ -3,29 +3,128 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../components/FormattedDate.astro';
+
+const posts = (await getCollection('blog'))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 3);
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 3em 1em;
+			}
+			.latest-analyses {
+				margin-top: 3rem;
+			}
+			.latest-analyses h2 {
+				font-size: 2rem;
+				border-bottom: 2px solid var(--accent);
+				display: inline-block;
+				margin-bottom: 1.5rem;
+			}
+			.post-list {
+				display: flex;
+				flex-direction: column;
+				gap: 1.5rem;
+				list-style-type: none;
+				padding: 0;
+			}
+			.post-item {
+				border-radius: 12px;
+				background: white;
+				box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+				overflow: hidden;
+				transition: transform 0.2s ease, box-shadow 0.2s ease;
+			}
+			.post-item:hover {
+				transform: translateY(-4px);
+				box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+			}
+			.post-item a {
+				display: flex;
+				text-decoration: none;
+				color: inherit;
+			}
+			.post-item img {
+				width: 200px;
+				height: 120px;
+				object-fit: cover;
+			}
+			.post-content {
+				padding: 1rem;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+			}
+			.post-content h4 {
+				margin: 0;
+				font-size: 1.2rem;
+				color: var(--black);
+			}
+			.post-date {
+				font-size: 0.9rem;
+				color: var(--gray);
+				margin-top: 0.25rem;
+			}
+			@media (max-width: 600px) {
+				.post-item a {
+					flex-direction: column;
+				}
+				.post-item img {
+					width: 100%;
+					height: 150px;
+				}
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>⚽ {SITE_TITLE}</h1>
-			<p>
-				Bienvenido a tu plataforma de referencia para el <strong>análisis táctico y estadístico</strong> del fútbol moderno. 
-				En {SITE_TITLE}, nos apasiona descifrar los patrones ocultos detrás de cada partido, equipo y jugador.
-			</p>
-			<p>
-				Nuestra misión es transformar la complejidad del juego en <em>insights</em> accionables, utilizando datos 
-				avanzados y una mirada táctica profunda para entender no solo qué pasó en el marcador, sino <strong>cómo y por qué</strong> sucedió en el césped.
-			</p>
-			<p>
-				Únete a la conversación mientras exploramos desde las pizarras de los entrenadores más innovadores 
-				hasta las métricas que están revolucionando el scouting mundial.
-			</p>
+			<section class="intro">
+				<h1>⚽ {SITE_TITLE}</h1>
+				<p>
+					Bienvenido a tu plataforma de referencia para el <strong>análisis táctico y estadístico</strong> del fútbol moderno. 
+					En {SITE_TITLE}, nos apasiona descifrar los patrones ocultos detrás de cada partido, equipo y jugador.
+				</p>
+				<p>
+					Nuestra misión es transformar la complejidad del juego en <em>insights</em> accionables, utilizando datos 
+					avanzados y una mirada táctica profunda para entender no solo qué pasó en el marcador, sino <strong>cómo y por qué</strong> sucedió en el césped.
+				</p>
+				<p>
+					Únete a la conversación mientras exploramos desde las pizarras de los entrenadores más innovadores 
+					hasta las métricas que están revolucionando el scouting mundial.
+				</p>
+			</section>
+
+			<section class="latest-analyses">
+				<h2>Últimos Análisis</h2>
+				<ul class="post-list">
+					{
+						posts.map((post) => (
+							<li class="post-item">
+								<a href={`/blog/${post.id}/`}>
+									<img src={post.data.heroImage} alt="" />
+									<div class="post-content">
+										<h4>{post.data.title}</h4>
+										<span class="post-date">
+											<FormattedDate date={post.data.pubDate} />
+										</span>
+									</div>
+								</a>
+							</li>
+						))
+					}
+				</ul>
+			</section>
 		</main>
 		<Footer />
 	</body>
