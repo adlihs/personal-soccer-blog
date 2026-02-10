@@ -3,66 +3,61 @@ import Layout from '../layouts/BlogPost.astro';
 ---
 
 <Layout
-	title="Sobre el Autor: Perfil Táctico"
-	description="Data Scientist & Tactical Analyst especializado en fútbol de élite."
+	title="Sobre Edmund Neil: Perfil Táctico & Estratégico"
+	description="Director Técnico, Analista Táctico y de Rendimiento con enfoque en Data Intelligence."
 	pubDate={new Date('Feb 10 2026')}
 	heroImage="/blog-placeholder-about.jpg"
 >
 	<div class="resume-container">
 		<section class="resume-intro glass">
 			<p>
-				Con una trayectoria híbrida única, fusiono más de <strong>10 años de experiencia en Business Intelligence y Data Science</strong> 
-				con la dirección técnica y el scouting profesional. Mi enfoque transforma los datos complejos en decisiones tácticas 
-				accionables para organizaciones deportivas de alto nivel.
+				Soy **Edmund Neil**, un profesional apasionado por el fútbol que conecta el trabajo de campo con la precisión de los datos. Mi trayectoria combina la dirección técnica en categorías formativas y élite con una sólida base en **Data Science y Video Análisis**, permitiéndome ofrecer una visión integral y objetiva para la toma de decisiones estratégicas en clubes profesionales.
 			</p>
 		</section>
 
 		<div class="resume-grid">
 			<div class="resume-card glass">
-				<h3 class="technical">🎯 Análisis & Scouting</h3>
+				<h3 class="technical">📋 Dirección Técnica (Field Coach)</h3>
 				<ul class="resume-list">
-					<li><strong>Member & Certified PFSA</strong> (Level 2).</li>
-					<li>Specialists: Opposition Analysis, Performance Analysis, Technical Scouting.</li>
-					<li>Technical Analyst & Talent Identification Specialist.</li>
-				</ul>
-				<div class="course-badges">
-					<span class="badge technical">Opposition Analysis</span>
-					<span class="badge technical">Data Analysis</span>
-					<span class="badge technical">Performance Analysis</span>
-				</div>
-			</div>
-
-			<div class="resume-card glass">
-				<h3 class="technical">📊 Data Intelligence</h3>
-				<ul class="resume-list">
-					<li><strong>Data Science Specialist</strong>: Machine Learning, Python & R.</li>
-					<li><strong>BI Expert</strong>: Data Engineering (ETL) & Visualización.</li>
-					<li>Advanced Tools: Tableau, Looker, PowerBI.</li>
+					<li><strong>Director Técnico U20 - Lankester AF</strong>: Liderazgo en el Torneo Nacional Elite LINAFA, alcanzando octavos de final.</li>
+					<li><strong>Director Técnico U17 - AD San Carlos</strong>: Campeón regional invicto y clasificación al Torneo Nacional.</li>
+					<li><strong>Academia Paolo Jiménez</strong>: Gestión de categorías U17/U20 y obtención del Campeonato Regional.</li>
+					<li><strong>Club Sport United</strong>: DT del primer equipo femenino, enfocado en desarrollo técnico.</li>
 				</ul>
 			</div>
 
 			<div class="resume-card glass">
-				<h3 class="technical">⚽ Dirección Técnica</h3>
+				<h3 class="technical">🎥 Análisis Táctico & Video</h3>
 				<ul class="resume-list">
-					<li><strong>5+ años de experiencia</strong> gestionando equipos U17 y U20.</li>
-					<li>Campeonatos regionales obtenidos.</li>
-					<li><strong>Licencia D (FEDEFUT Costa Rica)</strong> - Próximamente Licencia C.</li>
+					<li><strong>Video Analista - Club Sport Cartaginés</strong>: Análisis de rendimiento en Primera División (Costa Rica).</li>
+					<li><strong>Analista Táctico - Montreal United F.C.</strong>: Scouting de rivales y tendencias tácticas.</li>
+					<li><strong>Certified Technical Scout</strong>: Miembro certificado de la PFSA (Professional Football Scouts Association).</li>
 				</ul>
 			</div>
 
 			<div class="resume-card glass">
-				<h3 class="technical">🌐 Competencias Extra</h3>
+				<h3 class="technical">📊 Data & Performance Intelligence</h3>
 				<ul class="resume-list">
-					<li><strong>Idiomas</strong>: Inglés nivel B2+ (Capacidad para trabajar en entornos internacionales).</li>
-					<li>Disponibilidad para relocalización global.</li>
+					<li><strong>SIFUTCR</strong>: Diseño de pipelines de datos (Wyscout, InStat) y dashboards avanzados en Tableau para la Primera División de Costa Rica.</li>
+					<li><strong>Ipswich Town FC (UK)</strong>: Analista de Datos, desarrollando reportes post-partido basados en KPIs (xG, PPDA, eficiencia de presión).</li>
+					<li>Dominio experto en **Python** para limpieza y transformación de datos futbolísticos.</li>
+				</ul>
+			</div>
+
+			<div class="resume-card glass">
+				<h3 class="technical">🎓 Formación & Certificaciones</h3>
+				<ul class="resume-list">
+					<li><strong>Licencia C</strong> - Federación de Fútbol de Costa Rica.</li>
+					<li><strong>PFSA L2</strong>: Talent ID, Opposition Analysis, Technical Scouting & Data Analysis.</li>
+					<li><strong>Nacsport</strong>: Especialista en Video Análisis de fútbol.</li>
+					<li><strong>Nivel de Inglés B2+</strong>: Capacidad profesional para entornos internacionales.</li>
 				</ul>
 			</div>
 		</div>
 
 		<section class="resume-commitment glass">
 			<p>
-				Mi compromiso es poner esta experiencia técnica y tecnológica al servicio de cuerpos técnicos 
-				y clubes que busquen una ventaja competitiva a través del rigor del análisis y la innovación de los datos.
+				"Mi misión es transformar la complejidad del juego en ventajas competitivas medibles, uniendo el ojo clínico del entrenador con el rigor de la inteligencia de datos."
 			</p>
 		</section>
 	</div>
@@ -78,6 +73,9 @@ import Layout from '../layouts/BlogPost.astro';
 			font-size: 1.25rem;
 			line-height: 1.8;
 		}
+		.resume-intro strong {
+			color: var(--primary);
+		}
 		.resume-grid {
 			display: grid;
 			grid-template-columns: repeat(2, 1fr);
@@ -90,7 +88,7 @@ import Layout from '../layouts/BlogPost.astro';
 		}
 		.resume-card h3 {
 			color: var(--primary);
-			font-size: 1rem;
+			font-size: 0.9rem;
 			margin-bottom: 1rem;
 			border-bottom: 1px solid var(--glass-border);
 			padding-bottom: 0.5rem;
@@ -101,29 +99,20 @@ import Layout from '../layouts/BlogPost.astro';
 			margin: 0;
 		}
 		.resume-list li {
-			margin-bottom: 0.75rem;
+			margin-bottom: 1rem;
 			font-size: 0.95rem;
+			line-height: 1.5;
+		}
+		.resume-list li strong {
+			color: var(--text-primary);
 		}
 		.resume-commitment {
 			padding: 1.5rem;
 			text-align: center;
 			font-style: italic;
+			color: var(--text-primary);
 		}
-		.course-badges {
-			display: flex;
-			flex-wrap: wrap;
-			gap: 0.5rem;
-			margin-top: 1rem;
-		}
-		.badge {
-			background: var(--surface);
-			color: var(--primary);
-			padding: 0.25rem 0.5rem;
-			border-radius: 4px;
-			font-size: 0.7rem;
-			border: 1px solid var(--glass-border);
-		}
-		@media (max-width: 720px) {
+		@media (max-width: 850px) {
 			.resume-grid {
 				grid-template-columns: 1fr;
 			}
