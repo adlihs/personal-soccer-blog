@@ -1,7 +1,7 @@
 ---
 title: 'La Evolución Táctica del Fútbol: Del "WM" al Juego de Posición'
 description: 'Un recorrido histórico por las formaciones y estilos que han marcado época en el fútbol mundial.'
-pubDate: 'Feb 10 2026'
+pubDate: 'Feb 10 2026 10:00:00'
 heroImage: '/evolucion-tactica.png'
 ---
 

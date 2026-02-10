@@ -1,7 +1,7 @@
 ---
 title: 'Presión Tras Pérdida: El Arma de los Equipos de Élite'
 description: 'Desglosando los principios y la ejecución de la presión inmediata tras perder la posesión para recuperar el balón rápidamente.'
-pubDate: 'Feb 10 2026'
+pubDate: 'Feb 10 2026 10:40:00'
 heroImage: '/presion-tras-perdida.png'
 ---
 

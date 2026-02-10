@@ -1,7 +1,7 @@
 ---
 title: 'El Arte de la Transición: Cómo Dominar los Momentos Clave del Partido'
 description: 'Un estudio sobre la importancia de las transiciones defensa-ataque y ataque-defensa en el fútbol moderno.'
-pubDate: 'Feb 10 2026'
+pubDate: 'Feb 10 2026 10:20:00'
 heroImage: '/transiciones.png'
 ---
 

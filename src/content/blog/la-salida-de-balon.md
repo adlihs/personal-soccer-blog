@@ -1,7 +1,7 @@
 ---
 title: 'La Salida de Balón: Construir desde Atrás para Desmontar al Rival'
 description: 'Un análisis de las diferentes estrategias y movimientos para iniciar el juego desde la defensa de manera efectiva.'
-pubDate: 'Feb 10 2026'
+pubDate: 'Feb 10 2026 10:30:00'
 heroImage: '/salida-balon.png'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Modelos de Juego Explicados: Posesión, Contraataque y Presión Alta'
 description: 'Un análisis detallado de las filosofías de juego más dominantes en la actualidad, con ejemplos de equipos que las ejecutan a la perfección.'
-pubDate: 'Feb 10 2026'
+pubDate: 'Feb 10 2026 10:10:00'
 heroImage: '/modelos-juego.png'
 ---
 

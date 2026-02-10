@@ -1,7 +1,7 @@
 ---
 title: 'El Rol del "Falso 9": Cómo un Delantero Puede Revolucionar un Sistema Táctico'
 description: 'Un estudio sobre la función y el impacto de un delantero que se descuelga de su posición tradicional para generar superioridades en el mediocampo.'
-pubDate: 'Feb 10 2026'
+pubDate: 'Feb 10 2026 10:50:00'
 heroImage: '/falso-9.png'
 ---
 
