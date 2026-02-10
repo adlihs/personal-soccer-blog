@@ -2,7 +2,7 @@
 title: 'La Evolución Táctica del Fútbol: Del "WM" al Juego de Posición'
 description: 'Un recorrido histórico por las formaciones y estilos que han marcado época en el fútbol mundial.'
 pubDate: 'Feb 10 2026'
-heroImage: '/blog-placeholder-main.jpg'
+heroImage: '/evolucion-tactica.png'
 ---
 
 Si te detienes a ver un partido de los años 50 y luego pones uno de la Champions League actual, parece que estuvieras viendo dos deportes distintos. No solo por la velocidad física o la calidad del césped, sino por lo que pasa en la pizarra. El fútbol, aunque nos guste creer que es puro sentimiento, es en realidad una evolución constante de soluciones a problemas espaciales.
