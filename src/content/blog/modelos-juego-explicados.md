@@ -27,7 +27,5 @@ Este es el estilo que ha revolucionado la última década. En lugar de retrocede
 *   **Clave táctica**: La coordinación colectiva. Si un solo jugador no presiona a fondo, el sistema entero se desmorona como un castillo de naipes.
 *   **Referente actual**: El **Liverpool** (bajo la era Klopp) o el **Bayer Leverkusen** de Xabi Alonso. Es un fútbol de ritmo vertiginoso que asfixia al oponente.
 
-### ¿Cuál es el futuro?
-La realidad es que el fútbol de élite es cada vez más híbrido. Los mejores equipos del mundo son capaces de dominar la posesión un domingo y encerrarse para salir a la contra el miércoles siguiente. La flexibilidad táctica es, hoy en día, el arma definitiva.
 
 ¿Con cuál de estos modelos se identifica más tu equipo favorito? Al final, el fútbol es como la cocina: lo importante no son los ingredientes, sino cómo el chef los combina para ganar el partido.

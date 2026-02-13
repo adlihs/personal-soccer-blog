@@ -145,13 +145,6 @@ La aparición del "Entrenador de Balón Parado" como figura independiente en los
 
 ---
 
-## 6. Conclusión: La Diferencia entre Ganar y Perder
-
-Podemos hablar de posesión, de transiciones veloces y de sistemas complejos como el 3-5-2 o el 4-3-3. Pero al final del día, cuando el reloj marca el minuto 88 y el marcador está 0-0, un tiro libre en la frontal o un córner bien ejecutado es a menudo la única llave para abrir el candado.
-
-Dominar el balón parado significa respetar el juego en todas sus fases. Significa entender que el fútbol no son solo 90 minutos de carrera, sino una serie de momentos críticos que deben ser dominados con la mente antes que con los pies.
-
-En **FootyAnalysis**, seguiremos desgranando estos detalles que para el ojo inexperto pasan desapercibidos, pero que para nosotros son la esencia misma de la victoria.
 
 ---
 

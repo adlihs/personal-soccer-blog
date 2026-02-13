@@ -21,9 +21,5 @@ Lo que antes se veía como un sistema defensivo, hoy es una de las herramientas 
 *   **Puntos fuertes**: La zona central es un búnker. Con tres centrales y tres mediocentros, es casi imposible entrar por el medio. Además, los carrileros tienen libertad total para ser extremos en ataque y defensas en repliegue, lo que a menudo genera un 5 contra 4 en defensa que frustra al rival.
 *   **El talón de Aquiles**: El agotamiento físico. Los carrileros tienen que recorrer todo el campo; si no son atletas de élite, el sistema se cae por las bandas en el minuto 70. Además, dejar solo a tres defensas fijos puede ser arriesgado contra equipos que juegan con extremos muy rápidos y abiertos.
 
-### ¿Cuál es mejor?
-La respuesta corta es: ninguna. La formación es solo el dibujo inicial. Lo que realmente importa es la **función**. Hemos visto equipos que forman en 4-3-3 pero defienden en 4-4-2, o equipos de 3-5-2 que atacan con siete jugadores.
-
-En el fútbol de hoy, la clave no es qué formación eliges, sino cómo tus jugadores rotan entre ellas durante los 90 minutos. Un 4-3-3 puede convertirse en un 3-5-2 en un segundo si un mediocentro baja a la línea de defensa. Esa fluidez es la verdadera táctica moderna.
 
 Y tú, ¿eres más de la seguridad de los cuatro defensas o te gusta el dinamismo de los tres centrales con carrileros? ¡Déjanos tu opinión en los comentarios!

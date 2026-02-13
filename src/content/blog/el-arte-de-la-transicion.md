@@ -25,7 +25,5 @@ Existen dos grandes escuelas:
 ### El rol de los "Jugadores Ancla"
 Para que un equipo no se parta en dos durante estos intercambios, la figura del mediocentro defensivo o "pivote" es fundamental. Jugadores como **Rodri** o **Declan Rice** son maestros en leer estos momentos. Su trabajo no es solo pasar el balón, sino estar siempre bien colocados para cortar la transición rival antes de que empiece. Son el seguro de vida del equipo.
 
-### Conclusión: El fútbol se decide en el "entre medio"
-Ya no basta con atacar bien o defender bien. El fútbol moderno se gana en el medio de esas dos fases. Los equipos que mejor gestionan los momentos de incertidumbre son los que terminan levantando trofeos. La próxima vez que veas un partido, no sigas solo al balón; fíjate en qué hacen los jugadores en el segundo exacto en que la posesión cambia de manos. Ahí es donde está la verdadera táctica.
 
 ¿Crees que un equipo puede ser campeón hoy en día basándose solo en la posesión, sin un buen juego de transiciones? ¡Cuéntanos tu opinión en los comentarios!

@@ -25,7 +25,5 @@ Llegamos a hoy. El sistema que Pep Guardiola ha llevado a su máxima expresión 
 
 Si el portero se suma a la salida, somos 11 contra 10 en esa zona. Si fijamos a los extremos en la banda, abrimos pasillos por dentro. Hoy en día, la táctica es tan fluida que un lateral puede terminar jugando de mediocentro y un extremo de carrilero.
 
-### Reflexión final
-El fútbol seguirá cambiando. Hoy hablamos de *Expected Goals* (xG) y presión tras pérdida, pero en el fondo, seguimos buscando lo mismo que Chapman o Cruyff: engañar al rival para que nos deje un metro libre. Al final del día, la táctica es el lenguaje con el que los entrenadores intentan domar el caos de 22 personas corriendo tras un balón.
 
 Y tú, ¿qué estilo prefieres? ¿La solidez de un bloque bajo o el riesgo del juego de posición? ¡Déjanos tu comentario abajo!

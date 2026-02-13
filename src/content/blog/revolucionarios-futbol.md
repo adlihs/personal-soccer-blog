@@ -62,11 +62,6 @@ Guardiola introdujo el concepto del **Juego de Posición (Juego de Ubicación)**
 
 ---
 
-## Conclusión: Una Evolución Constante
-
-Estos cuatro entrenadores no son islas separadas; son eslabones de una misma cadena evolutiva. Sin Michels no existiría Cruyff, y sin Cruyff no entenderíamos a Guardiola. Incluso Sacchi, con su enfoque defensivo y compacto, influenció la forma en que los equipos de posesión se organizan hoy para no ser vulnerables.
-
-La revolución no se detiene. El fútbol actual sigue mutando, pero siempre volveremos a las pizarras de estos genios para entender por qué el balón se mueve de una forma y no de otra.
 
 ---
 

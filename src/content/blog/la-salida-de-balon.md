@@ -25,6 +25,5 @@ Si logras conectar tres pases precisos bajo esa presión asfixiante, de repente 
 ### El riesgo calculado
 Por supuesto, esto tiene un lado oscuro. Un error en la salida de balón suele terminar en gol. Por eso, los entrenadores modernos no solo piden valentía, piden inteligencia. Saber cuándo jugar en corto y cuándo identificar que el rival ha cerrado todos los caminos y es mejor buscar el pase largo (o "balonazo dirigido") es lo que separa a los buenos equipos de los grandes.
 
-En definitiva, la salida de balón es el primer paso de un baile táctico. Es el momento en que decides cómo quieres que se juegue el resto del partido. 
 
 ¿Eres de los que prefiere la seguridad de un despeje largo o disfrutas con la tensión de un equipo que construye desde el área pequeña? ¡Cuéntanos qué opinas!

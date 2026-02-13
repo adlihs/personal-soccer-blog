@@ -29,6 +29,5 @@ Equipos como el **Bayern de Múnich** del sextuplete o el **Manchester City** (q
 ### El precio físico y mental
 Ejecutar este modelo durante 90 minutos es agotador. Requiere una preparación física de atletas olímpicos y una concentración mental absoluta. Un solo desajuste, un solo jugador que llegue tarde a su marca, y el sistema entero queda expuesto. Por eso hablamos del "arma de la élite": solo los equipos con plantillas técnicamente excelentes y físicamente dominantes pueden permitirse jugar así.
 
-En conclusión, la presión tras pérdida es el triunfo de la proactividad sobre la reacción. Es decidir que, incluso sin el balón, tú sigues dictando qué pasa en el césped. 
 
 Y tú, ¿prefieres el fútbol de control o disfrutas más con este "caos organizado" de la presión alta? ¡Déjanos tu comentario!

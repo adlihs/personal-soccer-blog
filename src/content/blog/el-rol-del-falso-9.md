@@ -28,6 +28,5 @@ No todos los falsos 9 son iguales.
 ### ¿Se ha acabado el Falso 9?
 Con el regreso de los grandes tanques como Erling Haaland, algunos dicen que el Falso 9 es una especie en extinción. Sin embargo, la esencia del rol —la movilidad y la generación de espacios— sigue más viva que nunca. Hoy en día, casi todos los delanteros de élite actúan en momentos del partido como falsos nueves para ayudar en la construcción.
 
-El Falso 9 nos enseñó que en el fútbol, el espacio más peligroso no es necesariamente el que ocupas, sino el que eres capaz de crear para tus compañeros. 
 
 Y tú, ¿prefieres el delantero de área de toda la vida o te atrae más la riqueza táctica de un Falso 9? ¡Cuéntanoslo en los comentarios!
