@@ -9,7 +9,6 @@ El fútbol no es solo un deporte de pies; es, ante todo, un deporte de mentes. A
 
 En este artículo, exploramos los perfiles de cuatro arquitectos que redefinieron el fútbol: **Rinus Michels, Arrigo Sacchi, Johan Cruyff y Pep Guardiola**.
 
----
 
 ## 1. Rinus Michels: El Padre del "Fútbol Total"
 
@@ -21,7 +20,6 @@ Antes de Michels, los jugadores eran especialistas: el lateral izquierdo defend�
 - **La Presión Alta**: Fue uno de los pioneros en defender lejos de su portería, asfixiando al rival en su propio campo.
 - **La Trampa del Fuera de Juego**: Utilizó la línea defensiva como un arma ofensiva, adelantándola para dejar a los delanteros rivales en la nada.
 
----
 
 ## 2. Arrigo Sacchi: La Revolución de la Zona y el Bloque
 
@@ -34,7 +32,6 @@ Sacchi demostró que 11 jugadores coordinados valen más que 11 estrellas indivi
 - **La Distancia entre Líneas**: Su obsesión era que el equipo no midiera más de 25 metros de largo. Un bloque ultra-compacto que no dejaba espacios para que el rival pensara.
 - **Entrenamiento de Sombra**: Famoso por hacer entrenar a sus jugadores sin balón, obligándolos a imaginar posiciones y movimientos tácticos.
 
----
 
 ## 3. Johan Cruyff: El Ideólogo del Espacio
 
@@ -47,7 +44,6 @@ Cruyff llevó el Fútbol Total de su mentor Michels a un nivel superior, enfocá
 - **Extremos Abiertos**: Su obsesión por estirar el campo al máximo para generar pasillos interiores por donde los mediocampistas pudieran romper.
 - **El Portero-Líbero**: Introdujo la idea de que el portero es el primer atacante, iniciando el juego con los pies.
 
----
 
 ## 4. Pep Guardiola: El Perfeccionista del Posicionamiento
 
@@ -60,9 +56,7 @@ Guardiola introdujo el concepto del **Juego de Posición (Juego de Ubicación)**
 - **Laterales Invertidos**: Una de sus innovaciones más famosas, usando a los laterales en el centro del campo para controlar las transiciones y dar libertad a los interiores.
 - **Presión tras Pérdida (Regla de los 5 segundos)**: Una evolución radical de la presión de Michels, exigiendo una recuperación inmediata en el instante exacto del error.
 
----
 
 
----
 
 **¿Cuál de estos entrenadores crees que tuvo el impacto más grande? ¿Falta algún nombre en tu lista de revolucionarios? ¡Déjanos tus impresiones en los comentarios!**
