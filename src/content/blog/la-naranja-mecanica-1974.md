@@ -97,7 +97,3 @@ Fueron pioneros. Fueron valientes. Fueron, en muchos sentidos, incomprendidos po
 La Naranja Mecánica nos enseñó que el fútbol puede ser una expresión artística sin perder su naturaleza competitiva. Que se puede ser romántico y letal al mismo tiempo. Y que, a veces, la mayor victoria no es la que se queda en una vitrina, sino la que se queda para siempre en la retina del espectador.
 
 **Y tú, ¿qué aspecto del Fútbol Total crees que es más difícil de implementar hoy en día con la presión mediática y de resultados? ¿Es posible tener un equipo con esa libertad en la era del análisis táctico tan rígido? ¡Te leo en los comentarios!**
-
----
-
-*Nota del autor: Escribir sobre la Naranja Mecánica es, para cualquier analista, volver a la fuente original. Como Director Técnico, considero que estudiar sus partidos no es un ejercicio de nostalgia, sino una necesidad para entender hacia dónde va el fútbol moderno. La táctica evoluciona, pero los principios de espacio y tiempo son universales e inalterables.*

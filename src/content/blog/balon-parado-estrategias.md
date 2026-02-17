@@ -140,7 +140,3 @@ La aparición del "Entrenador de Balón Parado" como figura independiente en los
 
 
 **Y tú, ¿qué sistema defensivo prefieres: zona, hombre a hombre o mixto? ¿Recuerdas alguna jugada ensayada que haya cambiado la historia de tu equipo? ¡Te leo en los comentarios!**
-
-
-
-*Nota del autor: Este artículo es parte de una serie de análisis profundos sobre la metodología del entrenamiento moderno. Como Director Técnico y Analista de Datos, considero que el balón parado es la frontera final de la táctica donde la inteligencia de datos brilla con más fuerza.*
